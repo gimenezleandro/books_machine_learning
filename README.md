@@ -3,6 +3,6 @@
 1. [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)  
 Vídeo aula Pycon https://www.youtube.com/watch?v=L7R4HUQ-eQ0
 
-2. teste
+2. [Deep Learning with Python Notebooks, Autor: François Chollet] (https://github.com/fchollet/deep-learning-with-python-notebooks)  
 
 
